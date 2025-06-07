@@ -1,0 +1,34 @@
+*{
+    box-sizing: border-box;
+}
+
+
+.container{
+    width: 1328px;
+    margin: auto;
+    padding: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.text-left{
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 600px;
+    height: 300px;
+    background-color: brown;
+    border-radius: 15px;
+}
+
+.text-right{
+    width: 500px;
+    padding: 10px;
+    text-align: center;
+    font-size: 21px;
+    font-weight: 600px;
+     height: 300px;
+    background-color: brown;
+    border-radius: 15px;
+}
